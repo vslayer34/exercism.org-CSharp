@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\bin\Debug\net6.0\01_ Phone Number Analysis.exe
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\bin\Debug\net6.0\01_ Phone Number Analysis.deps.json
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\bin\Debug\net6.0\01_ Phone Number Analysis.runtimeconfig.json
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\bin\Debug\net6.0\01_ Phone Number Analysis.dll
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\bin\Debug\net6.0\01_ Phone Number Analysis.pdb
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\obj\Debug\net6.0\01_ Phone Number Analysis.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\obj\Debug\net6.0\01_ Phone Number Analysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\obj\Debug\net6.0\01_ Phone Number Analysis.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\obj\Debug\net6.0\01_ Phone Number Analysis.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\obj\Debug\net6.0\01_ Phone Number Analysis.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\obj\Debug\net6.0\01_ Phone Number Analysis.dll
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\obj\Debug\net6.0\refint\01_ Phone Number Analysis.dll
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\obj\Debug\net6.0\01_ Phone Number Analysis.pdb
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\obj\Debug\net6.0\01_ Phone Number Analysis.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\06_Tuples\01_ Phone Number Analysis\01_ Phone Number Analysis\obj\Debug\net6.0\ref\01_ Phone Number Analysis.dll

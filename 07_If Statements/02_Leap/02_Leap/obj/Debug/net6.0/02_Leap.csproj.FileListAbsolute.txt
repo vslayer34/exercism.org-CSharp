@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\bin\Debug\net6.0\02_Leap.exe
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\bin\Debug\net6.0\02_Leap.deps.json
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\bin\Debug\net6.0\02_Leap.runtimeconfig.json
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\bin\Debug\net6.0\02_Leap.dll
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\bin\Debug\net6.0\02_Leap.pdb
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\obj\Debug\net6.0\02_Leap.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\obj\Debug\net6.0\02_Leap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\obj\Debug\net6.0\02_Leap.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\obj\Debug\net6.0\02_Leap.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\obj\Debug\net6.0\02_Leap.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\obj\Debug\net6.0\02_Leap.dll
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\obj\Debug\net6.0\refint\02_Leap.dll
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\obj\Debug\net6.0\02_Leap.pdb
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\obj\Debug\net6.0\02_Leap.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\07_If Statements\02_Leap\02_Leap\obj\Debug\net6.0\ref\02_Leap.dll

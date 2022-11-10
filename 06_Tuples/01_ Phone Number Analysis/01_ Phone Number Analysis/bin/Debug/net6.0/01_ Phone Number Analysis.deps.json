@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "01_ Phone Number Analysis/1.0.0": {
+        "runtime": {
+          "01_ Phone Number Analysis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01_ Phone Number Analysis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
