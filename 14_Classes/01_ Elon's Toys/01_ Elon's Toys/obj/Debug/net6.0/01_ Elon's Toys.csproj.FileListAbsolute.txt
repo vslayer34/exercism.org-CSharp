@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\bin\Debug\net6.0\01_ Elon's Toys.exe
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\bin\Debug\net6.0\01_ Elon's Toys.deps.json
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\bin\Debug\net6.0\01_ Elon's Toys.runtimeconfig.json
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\bin\Debug\net6.0\01_ Elon's Toys.dll
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\bin\Debug\net6.0\01_ Elon's Toys.pdb
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\obj\Debug\net6.0\01_ Elon's Toys.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\obj\Debug\net6.0\01_ Elon's Toys.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\obj\Debug\net6.0\01_ Elon's Toys.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\obj\Debug\net6.0\01_ Elon's Toys.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\obj\Debug\net6.0\01_ Elon's Toys.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\obj\Debug\net6.0\01_ Elon's Toys.dll
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\obj\Debug\net6.0\refint\01_ Elon's Toys.dll
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\obj\Debug\net6.0\01_ Elon's Toys.pdb
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\obj\Debug\net6.0\01_ Elon's Toys.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\14_Classes\01_ Elon's Toys\01_ Elon's Toys\obj\Debug\net6.0\ref\01_ Elon's Toys.dll
