@@ -91,6 +91,7 @@ class RemoteControlCar
     {
         if (battery == 0)
             return;
+
         distanceDriven += 20;
         battery -= 1;
     }
