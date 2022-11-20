@@ -23,5 +23,16 @@ internal class ClassName
 
         Console.WriteLine(Identifier.Clean("my\0Id"));
         Console.WriteLine();
+
+
+
+        // Task 3
+        Helper.DisplayTask("III", "Convert kebab-case to camelCase");
+        Helper.DisplayExample(
+            "Identifier.Clean(\"à-ḃç\");",
+            "àḂç");
+
+        Console.WriteLine(Identifier.Clean("a-bc"));
+        Console.WriteLine();
     }
 }

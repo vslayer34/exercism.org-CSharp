@@ -10,17 +10,27 @@ public static class Identifier
     public static string Clean(string identifier)
     {
         string cleanedIdentifier = "";
+        
+        if (identifier == null)
+            return cleanedIdentifier;
 
-        foreach (char character in identifier)
+
+        for (int i = 0; i < identifier.Length; i++)
         {
-            if (character.ToString() == " ")
+            if (identifier[i].ToString() == " ")
             {
-                cleanedIdentifier = identifier.Replace(character, '_');
+                cleanedIdentifier = identifier.Replace(identifier[i], '_');
             }
 
-            if (char.IsControl(character))
+            if (char.IsControl(identifier[i]))
             {
-                cleanedIdentifier = identifier.Replace(character.ToString(), "CTRL");
+                cleanedIdentifier = identifier.Replace(identifier[i].ToString(), "CTRL");
+            }
+
+            if (identifier[i] == '-')
+            {
+                cleanedIdentifier = identifier.Replace(identifier[i].ToString(), "");
+                cleanedIdentifier[i + 1].ToString().ToUpper();
             }
         }
 
