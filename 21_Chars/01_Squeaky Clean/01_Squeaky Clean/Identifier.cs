@@ -1,39 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
 
 public static class Identifier
 {
+    private static bool IsGreekLowerCase(char c) => (c > 'α' && c <= 'ω');
+
     public static string Clean(string identifier)
     {
-        string cleanedIdentifier = "";
-        
-        if (identifier == null)
-            return cleanedIdentifier;
+        StringBuilder sb = new StringBuilder();
+        bool isAfterDash = false;
 
-
-        for (int i = 0; i < identifier.Length; i++)
+        foreach (char c in identifier)
         {
-            if (identifier[i].ToString() == " ")
+            sb.Append(c switch
             {
-                cleanedIdentifier = identifier.Replace(identifier[i], '_');
-            }
+                _ when IsGreekLowerCase(c) => default,
+                _ when isAfterDash => Char.ToUpperInvariant(c),
+                _ when Char.IsLetter(c) => c,
+                _ when Char.IsControl(c) => "CTRL",
+                _ when Char.IsWhiteSpace(c) => '_',
+                _ => default,
+            });
 
-            if (char.IsControl(identifier[i]))
-            {
-                cleanedIdentifier = identifier.Replace(identifier[i].ToString(), "CTRL");
-            }
-
-            if (identifier[i] == '-')
-            {
-                cleanedIdentifier = identifier.Replace(identifier[i].ToString(), "");
-                cleanedIdentifier[i + 1].ToString().ToUpper();
-            }
+            isAfterDash = c.Equals('-');
         }
-
-        return cleanedIdentifier;
+        
+        return sb.ToString();
     }
 }
