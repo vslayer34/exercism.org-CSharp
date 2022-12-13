@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\bin\Debug\net6.0\01_ Booking up for Beauty.exe
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\bin\Debug\net6.0\01_ Booking up for Beauty.deps.json
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\bin\Debug\net6.0\01_ Booking up for Beauty.runtimeconfig.json
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\bin\Debug\net6.0\01_ Booking up for Beauty.dll
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\bin\Debug\net6.0\01_ Booking up for Beauty.pdb
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\obj\Debug\net6.0\01_ Booking up for Beauty.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\obj\Debug\net6.0\01_ Booking up for Beauty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\obj\Debug\net6.0\01_ Booking up for Beauty.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\obj\Debug\net6.0\01_ Booking up for Beauty.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\obj\Debug\net6.0\01_ Booking up for Beauty.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\obj\Debug\net6.0\01_ Booking up for Beauty.dll
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\obj\Debug\net6.0\refint\01_ Booking up for Beauty.dll
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\obj\Debug\net6.0\01_ Booking up for Beauty.pdb
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\obj\Debug\net6.0\01_ Booking up for Beauty.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\23_Datetimes\01_ Booking up for Beauty\01_ Booking up for Beauty\obj\Debug\net6.0\ref\01_ Booking up for Beauty.dll
