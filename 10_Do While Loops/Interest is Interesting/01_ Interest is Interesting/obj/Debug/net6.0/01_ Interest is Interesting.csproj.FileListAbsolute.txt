@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\bin\Debug\net6.0\01_ Interest is Interesting.exe
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\bin\Debug\net6.0\01_ Interest is Interesting.deps.json
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\bin\Debug\net6.0\01_ Interest is Interesting.runtimeconfig.json
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\bin\Debug\net6.0\01_ Interest is Interesting.dll
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\bin\Debug\net6.0\01_ Interest is Interesting.pdb
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\obj\Debug\net6.0\01_ Interest is Interesting.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\obj\Debug\net6.0\01_ Interest is Interesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\obj\Debug\net6.0\01_ Interest is Interesting.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\obj\Debug\net6.0\01_ Interest is Interesting.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\obj\Debug\net6.0\01_ Interest is Interesting.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\obj\Debug\net6.0\01_ Interest is Interesting.dll
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\obj\Debug\net6.0\refint\01_ Interest is Interesting.dll
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\obj\Debug\net6.0\01_ Interest is Interesting.pdb
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\obj\Debug\net6.0\01_ Interest is Interesting.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\10_Do While Loops\Interest is Interesting\01_ Interest is Interesting\obj\Debug\net6.0\ref\01_ Interest is Interesting.dll
