@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\obj\Debug\net6.0\01_Wizards and Warriors.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\obj\Debug\net6.0\01_Wizards and Warriors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\obj\Debug\net6.0\01_Wizards and Warriors.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\obj\Debug\net6.0\01_Wizards and Warriors.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\obj\Debug\net6.0\01_Wizards and Warriors.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\bin\Debug\net6.0\01_Wizards and Warriors.exe
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\bin\Debug\net6.0\01_Wizards and Warriors.deps.json
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\bin\Debug\net6.0\01_Wizards and Warriors.runtimeconfig.json
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\bin\Debug\net6.0\01_Wizards and Warriors.dll
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\bin\Debug\net6.0\01_Wizards and Warriors.pdb
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\obj\Debug\net6.0\01_Wizards and Warriors.dll
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\obj\Debug\net6.0\refint\01_Wizards and Warriors.dll
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\obj\Debug\net6.0\01_Wizards and Warriors.pdb
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\obj\Debug\net6.0\01_Wizards and Warriors.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\25_Inheritance\Wizards and Warriors\01_Wizards and Warriors\obj\Debug\net6.0\ref\01_Wizards and Warriors.dll
