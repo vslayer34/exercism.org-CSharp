@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\bin\Debug\net6.0\01_Tracks on Tracks on Tracks.exe
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\bin\Debug\net6.0\01_Tracks on Tracks on Tracks.deps.json
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\bin\Debug\net6.0\01_Tracks on Tracks on Tracks.runtimeconfig.json
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\bin\Debug\net6.0\01_Tracks on Tracks on Tracks.dll
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\bin\Debug\net6.0\01_Tracks on Tracks on Tracks.pdb
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\obj\Debug\net6.0\01_Tracks on Tracks on Tracks.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\obj\Debug\net6.0\01_Tracks on Tracks on Tracks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\obj\Debug\net6.0\01_Tracks on Tracks on Tracks.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\obj\Debug\net6.0\01_Tracks on Tracks on Tracks.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\obj\Debug\net6.0\01_Tracks on Tracks on Tracks.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\obj\Debug\net6.0\01_Tracks on Tracks on Tracks.dll
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\obj\Debug\net6.0\refint\01_Tracks on Tracks on Tracks.dll
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\obj\Debug\net6.0\01_Tracks on Tracks on Tracks.pdb
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\obj\Debug\net6.0\01_Tracks on Tracks on Tracks.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\19_Lists\01_Tracks on Tracks on Tracks\01_Tracks on Tracks on Tracks\obj\Debug\net6.0\ref\01_Tracks on Tracks on Tracks.dll

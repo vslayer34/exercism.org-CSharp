@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "01_Hyper-optimized Telemetry/1.0.0": {
+        "runtime": {
+          "01_Hyper-optimized Telemetry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01_Hyper-optimized Telemetry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
