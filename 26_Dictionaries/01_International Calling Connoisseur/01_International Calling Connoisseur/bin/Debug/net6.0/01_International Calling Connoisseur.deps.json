@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "01_International Calling Connoisseur/1.0.0": {
+        "runtime": {
+          "01_International Calling Connoisseur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01_International Calling Connoisseur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

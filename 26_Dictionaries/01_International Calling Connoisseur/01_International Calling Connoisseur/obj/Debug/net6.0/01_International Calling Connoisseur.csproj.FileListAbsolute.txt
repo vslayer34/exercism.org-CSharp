@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\bin\Debug\net6.0\01_International Calling Connoisseur.exe
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\bin\Debug\net6.0\01_International Calling Connoisseur.deps.json
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\bin\Debug\net6.0\01_International Calling Connoisseur.runtimeconfig.json
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\bin\Debug\net6.0\01_International Calling Connoisseur.dll
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\bin\Debug\net6.0\01_International Calling Connoisseur.pdb
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\obj\Debug\net6.0\01_International Calling Connoisseur.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\obj\Debug\net6.0\01_International Calling Connoisseur.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\obj\Debug\net6.0\01_International Calling Connoisseur.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\obj\Debug\net6.0\01_International Calling Connoisseur.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\obj\Debug\net6.0\01_International Calling Connoisseur.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\obj\Debug\net6.0\01_International Calling Connoisseur.dll
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\obj\Debug\net6.0\refint\01_International Calling Connoisseur.dll
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\obj\Debug\net6.0\01_International Calling Connoisseur.pdb
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\obj\Debug\net6.0\01_International Calling Connoisseur.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\26_Dictionaries\01_International Calling Connoisseur\01_International Calling Connoisseur\obj\Debug\net6.0\ref\01_International Calling Connoisseur.dll
