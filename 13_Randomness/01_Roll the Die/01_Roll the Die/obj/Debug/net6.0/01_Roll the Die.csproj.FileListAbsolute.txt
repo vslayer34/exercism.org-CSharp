@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\bin\Debug\net6.0\01_Roll the Die.exe
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\bin\Debug\net6.0\01_Roll the Die.deps.json
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\bin\Debug\net6.0\01_Roll the Die.runtimeconfig.json
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\bin\Debug\net6.0\01_Roll the Die.dll
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\bin\Debug\net6.0\01_Roll the Die.pdb
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\obj\Debug\net6.0\01_Roll the Die.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\obj\Debug\net6.0\01_Roll the Die.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\obj\Debug\net6.0\01_Roll the Die.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\obj\Debug\net6.0\01_Roll the Die.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\obj\Debug\net6.0\01_Roll the Die.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\obj\Debug\net6.0\01_Roll the Die.dll
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\obj\Debug\net6.0\refint\01_Roll the Die.dll
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\obj\Debug\net6.0\01_Roll the Die.pdb
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\obj\Debug\net6.0\01_Roll the Die.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\13_Randomness\01_Roll the Die\01_Roll the Die\obj\Debug\net6.0\ref\01_Roll the Die.dll
