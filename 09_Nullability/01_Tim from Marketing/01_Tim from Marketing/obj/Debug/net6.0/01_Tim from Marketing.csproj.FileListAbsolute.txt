@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\bin\Debug\net6.0\01_Tim from Marketing.exe
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\bin\Debug\net6.0\01_Tim from Marketing.deps.json
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\bin\Debug\net6.0\01_Tim from Marketing.runtimeconfig.json
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\bin\Debug\net6.0\01_Tim from Marketing.dll
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\bin\Debug\net6.0\01_Tim from Marketing.pdb
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\obj\Debug\net6.0\01_Tim from Marketing.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\obj\Debug\net6.0\01_Tim from Marketing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\obj\Debug\net6.0\01_Tim from Marketing.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\obj\Debug\net6.0\01_Tim from Marketing.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\obj\Debug\net6.0\01_Tim from Marketing.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\obj\Debug\net6.0\01_Tim from Marketing.dll
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\obj\Debug\net6.0\refint\01_Tim from Marketing.dll
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\obj\Debug\net6.0\01_Tim from Marketing.pdb
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\obj\Debug\net6.0\01_Tim from Marketing.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\09_Nullability\01_Tim from Marketing\01_Tim from Marketing\obj\Debug\net6.0\ref\01_Tim from Marketing.dll
