@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\bin\Debug\net6.0\01_Football Match Reports.exe
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\bin\Debug\net6.0\01_Football Match Reports.deps.json
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\bin\Debug\net6.0\01_Football Match Reports.runtimeconfig.json
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\bin\Debug\net6.0\01_Football Match Reports.dll
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\bin\Debug\net6.0\01_Football Match Reports.pdb
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\obj\Debug\net6.0\01_Football Match Reports.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\obj\Debug\net6.0\01_Football Match Reports.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\obj\Debug\net6.0\01_Football Match Reports.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\obj\Debug\net6.0\01_Football Match Reports.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\obj\Debug\net6.0\01_Football Match Reports.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\obj\Debug\net6.0\01_Football Match Reports.dll
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\obj\Debug\net6.0\refint\01_Football Match Reports.dll
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\obj\Debug\net6.0\01_Football Match Reports.pdb
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\obj\Debug\net6.0\01_Football Match Reports.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\27_Switch Statements\01_Football Match Reports\01_Football Match Reports\obj\Debug\net6.0\ref\01_Football Match Reports.dll
