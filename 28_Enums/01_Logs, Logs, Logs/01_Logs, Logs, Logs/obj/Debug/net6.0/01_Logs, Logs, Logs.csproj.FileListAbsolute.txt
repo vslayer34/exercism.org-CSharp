@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\obj\Debug\net6.0\01_Logs, Logs, Logs.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\obj\Debug\net6.0\01_Logs, Logs, Logs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\obj\Debug\net6.0\01_Logs, Logs, Logs.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\obj\Debug\net6.0\01_Logs, Logs, Logs.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\obj\Debug\net6.0\01_Logs, Logs, Logs.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\bin\Debug\net6.0\01_Logs, Logs, Logs.exe
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\bin\Debug\net6.0\01_Logs, Logs, Logs.deps.json
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\bin\Debug\net6.0\01_Logs, Logs, Logs.runtimeconfig.json
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\bin\Debug\net6.0\01_Logs, Logs, Logs.dll
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\bin\Debug\net6.0\01_Logs, Logs, Logs.pdb
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\obj\Debug\net6.0\01_Logs, Logs, Logs.dll
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\obj\Debug\net6.0\refint\01_Logs, Logs, Logs.dll
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\obj\Debug\net6.0\01_Logs, Logs, Logs.pdb
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\obj\Debug\net6.0\01_Logs, Logs, Logs.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\28_Enums\01_Logs, Logs, Logs\01_Logs, Logs, Logs\obj\Debug\net6.0\ref\01_Logs, Logs, Logs.dll
