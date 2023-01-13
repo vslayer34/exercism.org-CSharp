@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\bin\Debug\net6.0\01_ Weighing Machine.exe
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\bin\Debug\net6.0\01_ Weighing Machine.deps.json
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\bin\Debug\net6.0\01_ Weighing Machine.runtimeconfig.json
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\bin\Debug\net6.0\01_ Weighing Machine.dll
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\bin\Debug\net6.0\01_ Weighing Machine.pdb
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\obj\Debug\net6.0\01_ Weighing Machine.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\obj\Debug\net6.0\01_ Weighing Machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\obj\Debug\net6.0\01_ Weighing Machine.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\obj\Debug\net6.0\01_ Weighing Machine.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\obj\Debug\net6.0\01_ Weighing Machine.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\obj\Debug\net6.0\01_ Weighing Machine.dll
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\obj\Debug\net6.0\refint\01_ Weighing Machine.dll
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\obj\Debug\net6.0\01_ Weighing Machine.pdb
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\obj\Debug\net6.0\01_ Weighing Machine.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\31_Properties\01_ Weighing Machine\01_ Weighing Machine\obj\Debug\net6.0\ref\01_ Weighing Machine.dll
