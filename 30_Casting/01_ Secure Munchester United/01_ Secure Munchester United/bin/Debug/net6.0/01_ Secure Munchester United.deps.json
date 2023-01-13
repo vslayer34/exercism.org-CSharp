@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "01_ Secure Munchester United/1.0.0": {
+        "runtime": {
+          "01_ Secure Munchester United.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01_ Secure Munchester United/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

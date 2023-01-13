@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\bin\Debug\net6.0\01_ Secure Munchester United.exe
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\bin\Debug\net6.0\01_ Secure Munchester United.deps.json
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\bin\Debug\net6.0\01_ Secure Munchester United.runtimeconfig.json
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\bin\Debug\net6.0\01_ Secure Munchester United.dll
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\bin\Debug\net6.0\01_ Secure Munchester United.pdb
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\obj\Debug\net6.0\01_ Secure Munchester United.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\obj\Debug\net6.0\01_ Secure Munchester United.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\obj\Debug\net6.0\01_ Secure Munchester United.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\obj\Debug\net6.0\01_ Secure Munchester United.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\obj\Debug\net6.0\01_ Secure Munchester United.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\obj\Debug\net6.0\01_ Secure Munchester United.dll
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\obj\Debug\net6.0\refint\01_ Secure Munchester United.dll
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\obj\Debug\net6.0\01_ Secure Munchester United.pdb
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\obj\Debug\net6.0\01_ Secure Munchester United.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\30_Casting\01_ Secure Munchester United\01_ Secure Munchester United\obj\Debug\net6.0\ref\01_ Secure Munchester United.dll
