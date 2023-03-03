@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\bin\Debug\net6.0\01_Face ID 2_0.exe
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\bin\Debug\net6.0\01_Face ID 2_0.deps.json
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\bin\Debug\net6.0\01_Face ID 2_0.runtimeconfig.json
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\bin\Debug\net6.0\01_Face ID 2_0.dll
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\bin\Debug\net6.0\01_Face ID 2_0.pdb
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\obj\Debug\net6.0\01_Face ID 2_0.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\obj\Debug\net6.0\01_Face ID 2_0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\obj\Debug\net6.0\01_Face ID 2_0.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\obj\Debug\net6.0\01_Face ID 2_0.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\obj\Debug\net6.0\01_Face ID 2_0.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\obj\Debug\net6.0\01_Face ID 2_0.dll
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\obj\Debug\net6.0\refint\01_Face ID 2_0.dll
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\obj\Debug\net6.0\01_Face ID 2_0.pdb
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\obj\Debug\net6.0\01_Face ID 2_0.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\38_Equality\01_Face ID 2_0\01_Face ID 2_0\obj\Debug\net6.0\ref\01_Face ID 2_0.dll
