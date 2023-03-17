@@ -68,5 +68,38 @@ internal class ClassName
             );
         Console.WriteLine(authenticator.Register(new Identity("tunde@thecompetition.com", new FacialFeatures("blue", 0.9m))));
         Console.WriteLine();
+
+
+
+        // Task 4
+        Helper.DisplayTask("IV", "Prevent invalid identities being authenticated");
+        Helper.DisplayExample(
+            "authenticator.IsRegistered(new Identity(\"alice@thecompetition.com\", new FacialFeatures(\"blue\", 0.8m)))",
+            "False"
+            );
+        Console.WriteLine(authenticator.IsRegistered(new Identity("alice@thecompetition.com", new FacialFeatures("blue", 0.8m))));
+        Console.WriteLine();
+
+
+
+        // Task 5
+        Helper.DisplayTask("V", "Add diagnostics to detect multiple attempts to authenticate");
+        
+        var identityA = new Identity("alice@thecompetition.com", new FacialFeatures("blue", 0.9m));
+        var identityB = identityA;
+        Helper.DisplayExample(
+            "Authenticator.AreSameObject(identityA, identityB)",
+            "True");
+        Console.WriteLine(Authenticator.AreSameObject(identityA, identityB));
+        Console.WriteLine();
+
+
+        var identityC = new Identity("alice@thecompetition.com", new FacialFeatures("blue", 0.9m));
+        var identityD = new Identity("alice@thecompetition.com", new FacialFeatures("blue", 0.9m));
+        Helper.DisplayExample(
+            "Authenticator.AreSameObject(identityC, identityD)",
+            "False");
+        Console.WriteLine(Authenticator.AreSameObject(identityC, identityD));
+        Console.WriteLine();
     }
 }
