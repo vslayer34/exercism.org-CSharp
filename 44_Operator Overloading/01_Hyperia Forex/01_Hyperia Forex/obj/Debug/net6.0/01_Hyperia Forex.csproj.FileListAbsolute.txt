@@ -1,0 +1,15 @@
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\bin\Debug\net6.0\01_Hyperia Forex.exe
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\bin\Debug\net6.0\01_Hyperia Forex.deps.json
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\bin\Debug\net6.0\01_Hyperia Forex.runtimeconfig.json
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\bin\Debug\net6.0\01_Hyperia Forex.dll
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\bin\Debug\net6.0\01_Hyperia Forex.pdb
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\obj\Debug\net6.0\01_Hyperia Forex.csproj.AssemblyReference.cache
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\obj\Debug\net6.0\01_Hyperia Forex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\obj\Debug\net6.0\01_Hyperia Forex.AssemblyInfoInputs.cache
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\obj\Debug\net6.0\01_Hyperia Forex.AssemblyInfo.cs
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\obj\Debug\net6.0\01_Hyperia Forex.csproj.CoreCompileInputs.cache
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\obj\Debug\net6.0\01_Hyperia Forex.dll
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\obj\Debug\net6.0\refint\01_Hyperia Forex.dll
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\obj\Debug\net6.0\01_Hyperia Forex.pdb
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\obj\Debug\net6.0\01_Hyperia Forex.genruntimeconfig.cache
+D:\Projects\C#\exercism.org\44_Operator Overloading\01_Hyperia Forex\01_Hyperia Forex\obj\Debug\net6.0\ref\01_Hyperia Forex.dll
