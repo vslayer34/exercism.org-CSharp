@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\C#\\exercism.org\\20_Integral Numbers\\01_Hyper-optimized Telemetry\\01_Hyper-optimized Telemetry\\01_Hyper-optimized Telemetry.csproj": {}
+    "D:\\Projects\\C#\\exercism.org\\45_Resource Cleanup\\01_ Object Relational Mapping\\01_ Object Relational Mapping\\01_ Object Relational Mapping.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\C#\\exercism.org\\20_Integral Numbers\\01_Hyper-optimized Telemetry\\01_Hyper-optimized Telemetry\\01_Hyper-optimized Telemetry.csproj": {
+    "D:\\Projects\\C#\\exercism.org\\45_Resource Cleanup\\01_ Object Relational Mapping\\01_ Object Relational Mapping\\01_ Object Relational Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C#\\exercism.org\\20_Integral Numbers\\01_Hyper-optimized Telemetry\\01_Hyper-optimized Telemetry\\01_Hyper-optimized Telemetry.csproj",
-        "projectName": "01_Hyper-optimized Telemetry",
-        "projectPath": "D:\\Projects\\C#\\exercism.org\\20_Integral Numbers\\01_Hyper-optimized Telemetry\\01_Hyper-optimized Telemetry\\01_Hyper-optimized Telemetry.csproj",
+        "projectUniqueName": "D:\\Projects\\C#\\exercism.org\\45_Resource Cleanup\\01_ Object Relational Mapping\\01_ Object Relational Mapping\\01_ Object Relational Mapping.csproj",
+        "projectName": "01_ Object Relational Mapping",
+        "projectPath": "D:\\Projects\\C#\\exercism.org\\45_Resource Cleanup\\01_ Object Relational Mapping\\01_ Object Relational Mapping\\01_ Object Relational Mapping.csproj",
         "packagesPath": "C:\\Users\\Mohamed El-Nagar\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C#\\exercism.org\\20_Integral Numbers\\01_Hyper-optimized Telemetry\\01_Hyper-optimized Telemetry\\obj\\",
+        "outputPath": "D:\\Projects\\C#\\exercism.org\\45_Resource Cleanup\\01_ Object Relational Mapping\\01_ Object Relational Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mohamed El-Nagar\\AppData\\Roaming\\NuGet\\NuGet.Config",

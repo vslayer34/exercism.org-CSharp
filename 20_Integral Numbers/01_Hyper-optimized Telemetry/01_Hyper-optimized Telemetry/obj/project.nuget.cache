@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "B7fHdvLrIoRMBlakXZDcO7+cc3cAQQlf+8VcaKBwPTh/mE8WAAHiCUdGPpJK8HcA8sQymUmFNwcnhJSMaHKv8g==",
+  "dgSpecHash": "sxSDKZk64l+HiwgTwGqPK9OrdQY+MX+of3OX3jUPnpzD5gaNyaDv9FDunaenFYoWsUP2z1PPIGY3vnTibySVkg==",
   "success": true,
   "projectFilePath": "D:\\Projects\\C#\\exercism.org\\20_Integral Numbers\\01_Hyper-optimized Telemetry\\01_Hyper-optimized Telemetry\\01_Hyper-optimized Telemetry.csproj",
   "expectedPackageFiles": [],
